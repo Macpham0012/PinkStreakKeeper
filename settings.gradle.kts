@@ -19,4 +19,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "PinkStreakKeeper"
-include(":app"),
+include(":app")
